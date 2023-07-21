@@ -36,3 +36,9 @@ like
      <!-- <ul type="disc"></ul> it display the element the into disc format -->
      <!-- <ul type="Square"></ul> it display the element into square format-->
      <!-- <ul type="Circle"></ul> it display the element into square format-->
+
+List has three types mainly used in html
+1. Order list
+2. Unorder list
+3. Nested list
+   
